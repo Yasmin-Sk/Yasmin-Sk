@@ -19,7 +19,7 @@
 - Amcat Certified Software Engineer- IT Services
 - Microsoft Azure Fundementals AZ-900 certified
 
-## :tv: YouTube - Videos
+## :tv: My YouTube - Videos
 
 - [Azure Fundementals](https://www.youtube.com/watch?v=Y30I19PCfMM)
 - [Azure Postmortem Deep Dive Week 1](https://www.youtube.com/watch?v=FFYicqW6Qto)
@@ -28,7 +28,7 @@
 - [Azure Postmortem Deep Dive Week 4](https://www.youtube.com/watch?v=pOKXfnBVMsU)
 - [Azure Web Application Deployment And Traffic Manager](https://www.youtube.com/watch?v=DbUDNPRbVnw)
 
-## ![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedln - Highlights
+## ![Linkedin](https://i.stack.imgur.com/gVE0j.png) My Linkedln - Highlights
 
 - [Reached 1K followers at linkedln](https://www.linkedin.com/posts/yasmin-shaik_linkedln-linkedinnetworking-community-activity-6966734530003054592-AIA0?utm_source=share&utm_medium=member_desktop)
 - [Mentoring young minds- Sree Sastha Engineering College Students](https://www.linkedin.com/posts/yasmin-shaik_microsoftazure-cloud-knowledgeshare-activity-6965322156947767296-gENR?utm_source=share&utm_medium=member_desktop)
@@ -48,3 +48,17 @@
 
 Email - skyasmin5657@gmail.com / yasmin@cloudnloud.com
 
+## :tv: Cloudnloud Technologies - Latest Videos
+
+- [Cloud DevOps useCase Internship](https://www.youtube.com/playlist?list=PLh_VNk4-EHTMr69lm4Jxbl-9Vz5zc1Apl) - Course for beginners.
+- [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
+- [AZURE Administration - Full Course](https://www.youtube.com/watch?v=3WW95LThR0k&list=PLh_VNk4-EHTPgpEEUkj4G7gXqV47yIz7r)
+- [Ansible Administration - Full Course](https://www.youtube.com/watch?v=LhKucikHpVs&list=PLh_VNk4-EHTNbb18pkpZy_fnG2Dn0n6QR)
+- [DevOps - Jenkins CI/CD - Full Course](https://www.youtube.com/watch?v=rN6f8pyrOI8&list=PLh_VNk4-EHTN732T-CfM-7lG3fNpK__79)
+- [Docker Administration - Full Course](https://www.youtube.com/watch?v=ixtJg7EGlWw&list=PLh_VNk4-EHTP5rDgNYAWgg1vvcPG8eoIV)
+- [Kubernetes Administration - Full Course](https://www.youtube.com/watch?v=lv6AZCBbQ9Y&list=PLh_VNk4-EHTMhIR-NIgI4tCEHdO9U-A8F)
+- [Azure Postmortem Deep Dive](https://www.youtube.com/watch?v=FFYicqW6Qto&list=PLh_VNk4-EHTNDrb2AWVvH0M1XRl0usKRc)
+- [Technical Meetups](https://www.youtube.com/watch?v=cfaJY5P4sME&list=PLh_VNk4-EHTM9S6AcnQQfPno1G06HU0hC)
+- [Fresher-Real-Time Experience Fear](https://www.youtube.com/watch?v=pLgckrrPY08&list=PLh_VNk4-EHTOWg4VL7_v_Ql7DsNW0DGtn)
+- [Cloud General Queries](https://www.youtube.com/watch?v=uIMKuwMP5Uc&list=PLh_VNk4-EHTMj1jcedUnuDNT2Xz-rJ1sy)
+- [IT Job Questions Confidence](https://www.youtube.com/playlist?list=PLh_VNk4-EHTOWg4VL7_v_Ql7DsNW0DGtn)
